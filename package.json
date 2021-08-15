@@ -1,0 +1,14 @@
+{
+  "name": "@evg-b/TouchDriver",
+  "version": "1.0.0",
+  "main": "dist/TouchDriver.js",
+  "repository": "git@github.com:evg-b/TouchDriver.git",
+  "author": "evg-b <seber.bobilev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^17.0.18",
+    "@types/react-dom": "^17.0.9",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
